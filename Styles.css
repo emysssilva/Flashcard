@@ -1,0 +1,27 @@
+body {
+background-color: bisque;
+}
+footer{
+background-color : black;
+color: white;
+}
+font-size :40 px;
+bottom :0;
+width : 100%;
+position : fixed;
+}
+#conteiner{
+display : flex;
+}
+.cartâo{
+margin : 50 px;
+background-color: blanchedalmond;
+height: 20 rem;
+flex-grow: 1;
+flex-basis: calc(33% \-6 rem);
+}
+h3{
+margin: 10px;
+border-radius:0,6 rem;
+background: tomato;
+}
